@@ -1,0 +1,7 @@
+# C++
+*.out
+*.exe
+*.app
+
+# Node.js
+node_modules/
